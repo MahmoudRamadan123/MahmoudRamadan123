@@ -1,80 +1,134 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Ramadan</h1>
-<h3 align="center">🚀 Full-Stack Developer | Mobile & Web App Expert | AI Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Mahmoud Ramadan</h1>
+<h3 align="center">AI-Powered Full-Stack Developer | Mobile App Engineer | SaaS & POS System Architect</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-ramadan-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ramadan-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=flat&logo=gmail" />
-  </a>
+  <a href="mailto:mr3722722@gmail.com"><img src="https://img.shields.io/badge/Email-mr3722722@gmail.com-D14836?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud-ramadan-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ramadan-blue?style=flat&logo=linkedin" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MahmoudRamadan123&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🔥 About Me
 
-- 💼 I’m a versatile developer working across **mobile**, **web**, and **AI**
-- 📱 Building cross-platform apps with **React Native**, **Flutter**, and **Firebase**
-- 🧠 Exploring AI: **BERT**, **Transformers**, **FastAPI**, **intent classification**, **chatbots**
-- 💻 Creating full-stack web solutions with **Next.js**, **Laravel**, **ASP.NET**, and **C#**
-- 🧾 Building POS systems, e-commerce platforms, admin dashboards, and internal tools
-- 🧪 Passionate about learning, solving real-world problems, and building developer communities
+🚀 I'm a **Full-Stack Web & Mobile Developer** with **5+ years** of hands-on experience in:
 
----
+- Building **scalable SaaS platforms**, **POS systems**, and **AI-powered apps**
+- Engineering cross-platform mobile solutions using **Flutter** and **React Native**
+- Designing intelligent automation tools with **Python**, **BERT**, and **TensorFlow**
+- Delivering end-to-end freelance projects for global clients in **Fintech**, **Healthcare**, **E-Commerce**, and **HR Tech**
 
-### 🛠️ Tech Stack
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-
-**Backend & APIs:**  
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)  
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=c-sharp)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=.net)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)  
-![MS Access](https://img.shields.io/badge/MS--Access-A4373A?style=flat&logo=microsoft-access)
-
-**AI/ML:**  
-![Hugging Face](https://img.shields.io/badge/Transformers-BERT-yellow?style=flat&logo=huggingface)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+📍 Based in **Barja, Mount Lebanon, Lebanon**  
+📧 Contact: [mr3722722@gmail.com](mailto:mr3722722@gmail.com) | 📞 +961 81 007 432  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mahmoud-ramadan-dev)
 
 ---
 
-### 🔥 Featured Projects
+## 🧠 Core Technical Skills
 
-| 🚀 Project | 💡 Description |
-|-----------|----------------|
-| `flutter-pos-app` | POS system for tablets & phones (invoices, Bluetooth printing, SQLite) |
-| `react-native-auth-app` | Multilingual login/registration with API, validation, i18n, and RTL support |
-| `ai-chatbot-nlp` | BERT/SentenceTransformers chatbot for smart intent detection |
-| `admin-dashboard-laravel` | Admin panel with CRUD, roles, images, filters, and user management |
-| `clinic-system-winforms` | Full clinic system using C# + MS Access with login & appointments |
-| `conqe-ai-leads` | AI-based B2B lead scoring & enrichment platform with CRM integration |
+### 🌐 Frontend
+React.js • Next.js • Tailwind CSS • Bootstrap • HTML5 • CSS3 • Responsive Design
+
+### 🖥 Backend
+Node.js • NestJS • FastAPI • Laravel • Firebase Functions • Flask • PHP • Next.js API Routes
+
+### 📱 Mobile
+Flutter • React Native • Android (Java) • Firebase Auth • Push Notifications
+
+### 🤖 AI / ML / Automation
+Python • Transformers • BERT • TensorFlow • PyTorch • Scikit-learn • OpenCV • Email Bots • Excel Macros • Financial APIs
+
+### 🛢️ Databases
+MySQL • MongoDB • Firebase Firestore • SQLite • MS Access
+
+### 🔧 DevOps / Tools
+Git • GitHub • Docker • Postman • AWS • Firebase Hosting • CI/CD • Unity • Blender • Stripe API • CRM Integrations
 
 ---
 
-### 📈 GitHub Stats
+## 📈 Career Highlights
+
+- 🧾 Delivered **30+ full-stack web and mobile applications** from design to deployment
+- 🧮 Built **5+ POS systems** with analytics dashboards, print integrations, and inventory control
+- 🤖 Developed **AI bots** that increased workflow efficiency by **3x**
+- 🛠 Led the architecture and deployment of **Workforce360** and **DoBodyShop** (HR + auto management SaaS)
+- 👨‍🏫 Mentored over **100 students** in Full-Stack Development, AI, and Mobile Engineering
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧾 **Flutter POS System** | Tablet-ready POS app with receipts, invoices, Bluetooth printers | Flutter, SQLite |
+| 🤖 **AI Intent Chatbot** | BERT-powered chatbot for NLP understanding | Python, HuggingFace |
+| 👨‍⚕️ **Medication Reminder App** | Multilingual mobile app with Next.js backend | React Native, Next.js |
+| 🛠️ **DoBodyShop SaaS** | Car repair shop workflow + customer CRM | Laravel, Firebase |
+| 🧪 **Clinic Management (WinForms)** | Full MS Access C# solution with login & appointment management | C#, Access |
+| 👔 **Workforce360 SaaS** | HR SaaS with payroll, attendance, and role management | Next.js, Firebase |
+| 🛍️ **3D Dressing Room** | Blender + AI for virtual try-on | Python, Blender, AI |
+
+> View more at: [github.com/MahmoudRamadan123](https://github.com/MahmoudRamadan123)
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **Bachelor of Applied Science in Computer Science**  
+Rafik Hariri University (2021–2025)
+
+📜 **Certifications & Courses**:
+- CS50 AI, CS50 Web Dev, CS50 Game Dev
+- Python for Data Science, Advanced Excel, Cryptography, C++, Blockchain
+- Data Viz, TensorFlow, React, UI/UX, Mobile Apps, Cloud, Security, Web3
+
+🧠 Platforms: Coursera, edX, freeCodeCamp, Saylor Academy, Great Learning, Kaggle
+
+---
+
+## 🌍 Languages
+- 🇱🇧 Arabic – Native  
+- 🇺🇸 English – Fluent  
+- 🇫🇷 French – Basic
+
+---
+
+## 💼 Work Experience
+
+### 🧑‍💻 Freelancer (Lebanon, Remote) | 2020 – Present
+- Built full platforms for local and international clients in healthtech, e-commerce, fintech
+- Integrated Stripe, Google Maps, CRM APIs, SMS gateways, Auth systems
+
+### 🧑‍🏫 Private Instructor | 2020 – Present
+- Mentored university students, junior devs & entrepreneurs in React, Flutter, AI/ML
+
+### 🇺🇸 MyTechryt (USA) – Full-Stack Developer | Feb 2024 – Present
+- Developed HR SaaS and automotive repair platform with dashboards and client portals
+
+### 🇫🇷 Michel Khoury (France) – AI & Web Freelancer | Jan 2025 – Present
+- Created AI-powered 3D try-on app using Python + Blender; deployed on Firebase
+
+### 🇱🇧 Fadi Sultan – React Native/Next.js Dev | Aug 2024 – Present
+- Built multilingual medication reminder app and Stripe-enabled e-learning dashboard
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudRamadan123&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudRamadan123&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudRamadan123&show_icons=true&theme=react&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudRamadan123&layout=compact&theme=react" height="160" />
 </p>
 
 ---
 
-### 🌍 Languages
+## 🤝 Let's Work Together
 
-🇱🇧 Arabic (Native) & 🇺🇸 English (Fluent)
+- 💼 **Open to freelance, remote work, and startup collaboration**
+- ✉️ Email: [mr3722722@gmail.com](mailto:mr3722722@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/mahmoud-ramadan-dev](https://www.linkedin.com/in/mahmoud-ramadan-dev)
+- 🌍 GitHub: [github.com/MahmoudRamadan123](https://github.com/MahmoudRamadan123)
 
 ---
 
-> “Build what matters. Learn what you don't know. Share what you build.”  
-> — Mahmoud Ramadan
-
+> **“Build smarter, code cleaner, and always solve real-world problems with impact.”**
